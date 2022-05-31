@@ -1,2 +1,4 @@
 # Thesis_KNMI_2021-2022
-This repository contains the codes used for my master thesis that I carried out at the KNMI from September 2021 to May 2022. The title of the project is: Atmospheric dynamics affecting Caribbean precipitation under climate change. A CMIP6 analysis.
+This repository contains the codes used for my master thesis that I carried out at the KNMI from September 2021 to May 2022. The title of the project is: "Atmospheric dynamics affecting Caribbean precipitation under climate change. A CMIP6 analysis."
+
+The project is devided in two parts. The first part is the analysis of CMIP6, which tries to understand the drivers of precipitation trends at the end of the 21 st century. The second part is the development of the climate scenarios for the Caribbean region following the methodology from Lenderink 2014. All the scripts for the first part are included in the Scripst dynamocs folder. For the second part, only some scripts are included in the Scenarios scripts folder. The code were the computations for the scenarios development are is not included since it belongs to the kNMI. 
